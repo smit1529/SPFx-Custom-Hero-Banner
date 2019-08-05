@@ -1,0 +1,23 @@
+Currently the hero banner is using this properties
+Link
+Select a link to a document or page
+Title [80 character limit]
+{Only in Layer} Description [500 character limit]
+Show title in layout [Y/N]
+Image
+Image URL
+Alternative text
+Options
+Show call to action link [Y/N]
+Call to action text [40 character limit]
+{Only in Layer} Show topic heading [Y/N]
+{Only in Layer} Topic heading text [40 character limit]
+
+Title - Single line text
+LinkToDocument - Link
+Description - Multiple line text
+ShowTitle - Y/N
+Image - Picture
+CallToAction - Y/N
+ActionText - Single line text
+

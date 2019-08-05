@@ -1,0 +1,10 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.6.0",
+    "libraryName": "custom-hero-banner",
+    "libraryId": "2551f4ed-7cb1-42fa-a8e3-ef8710bcf0cd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true
+  }
+}

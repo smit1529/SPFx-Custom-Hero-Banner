@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "custom-hero-banner-client-side-solution",
+    "id": "2551f4ed-7cb1-42fa-a8e3-ef8710bcf0cd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/custom-hero-banner.sppkg"
+  }
+}
